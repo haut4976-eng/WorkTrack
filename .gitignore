@@ -1,0 +1,14 @@
+**/bin/
+**/obj/
+**/.gradle/
+**/build/
+**/.keys/
+**/.nuget/
+**/*.db
+**/*.db-shm
+**/*.db-wal
+android/local.properties
+.idea/
+artifacts/
+*.iml
+.DS_Store

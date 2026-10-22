@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "WorkTrack.Api": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://0.0.0.0:5000"
+    }
+  }
+}
